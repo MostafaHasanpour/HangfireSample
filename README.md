@@ -24,3 +24,5 @@ then configure your project like my sample project
   1. startup
   2. appsetings.json
   3. your scheduler Action or Methode
+
+![output in kesterel Console](https://github.com/MostafaHasanpour/HangfireSample/blob/master/screenshot.PNG)
